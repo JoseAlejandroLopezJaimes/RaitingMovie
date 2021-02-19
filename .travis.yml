@@ -3,4 +3,4 @@ node_js:
   - "10.18.0"
 before_script:
   - npm install
-script: cd movie_rating_app && npm run unit
+script: cd movie_rating_app && npm run serve
