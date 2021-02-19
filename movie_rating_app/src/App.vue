@@ -4,7 +4,6 @@
   -v-app-bar y v-footer
   Soportan una propiedad llamada app. Esta propiedad le dice a Vuetify que el
   componente correspondiente es parte de la aplicación.
-
   -<v-navigation-drawer fixed v-model="drawer" app>
   -<v-footer color="indigo" app>
   --->
